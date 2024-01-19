@@ -11,6 +11,4 @@ public class TestingEnums {
             System.out.println(value);
         }
     }
-
-
 }
